@@ -1,0 +1,28 @@
+{
+  "ProjectName": "street_vendor",
+  "ProjectGuid": "6fa9d7ea-9c02-44b0-98eb-3a721a70b6f1",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.streetvendor",
+  "DisplayName": "street_vendor",
+  "Author": "",
+  "Description": "street_vendor",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.1.0",
+  "Framework": "NativeScript"
+}
