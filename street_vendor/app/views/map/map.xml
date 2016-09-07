@@ -1,5 +1,6 @@
-<Page xmlns="http://www.nativescript.org/tns.xsd">
-  <GridLayout>
-    <!-- Add UI declaration here -->
-  </GridLayout>
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded">
+    <StackLayout>
+      <Label text="{{ dateshort, 'Today (short format) is ' + dateshort }}" />
+      <Label text="{{ datelong, 'Today (long format) is ' + datelong }}" />
+    </StackLayout>
 </Page>

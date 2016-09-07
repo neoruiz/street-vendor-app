@@ -2,9 +2,9 @@
   "ProjectName": "street_vendor",
   "ProjectGuid": "6fa9d7ea-9c02-44b0-98eb-3a721a70b6f1",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.streetvendor",
+  "AppIdentifier": "com.horusstudios.streetvendor",
   "DisplayName": "street_vendor",
-  "Author": "",
+  "Author": "Neo Ruiz",
   "Description": "street_vendor",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
@@ -24,5 +24,6 @@
   "AndroidHardwareAcceleration": "true",
   "iOSStatusBarStyle": "Default",
   "FrameworkVersion": "2.1.0",
-  "Framework": "NativeScript"
+  "Framework": "NativeScript",
+  "iOSDeploymentTarget": "8.0"
 }
